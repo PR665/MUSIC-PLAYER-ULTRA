@@ -28,7 +28,7 @@ CONFIG VARS:
 
 * THAT IS EASY WAY TO DEPLOY ✅
 
-![Deploy](https://heroku.com/deploy?template=https://github.com/suprojects/CallsMusicHeroku/)
+[!Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/suprojects/CallsMusicHeroku/)
 
 <div class="separator" style="clear: both; text-align: center;">
 
